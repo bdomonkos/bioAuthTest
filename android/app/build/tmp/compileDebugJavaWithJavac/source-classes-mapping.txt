@@ -1,0 +1,16 @@
+com/bioauthtestproject/generated/BasePackageList.java
+ com.bioauthtestproject.generated.BasePackageList
+com/bioauthtestproject/MainApplication.java
+ com.bioauthtestproject.MainApplication
+ com.bioauthtestproject.MainApplication$1
+com/bioauthtestproject/ReactNativeFlipper.java
+ com.bioauthtestproject.ReactNativeFlipper
+ com.bioauthtestproject.ReactNativeFlipper$1
+ com.bioauthtestproject.ReactNativeFlipper$2
+ com.bioauthtestproject.ReactNativeFlipper$2$1
+com/bioauthtestproject/BuildConfig.java
+ com.bioauthtestproject.BuildConfig
+com/bioauthtestproject/MainActivity.java
+ com.bioauthtestproject.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

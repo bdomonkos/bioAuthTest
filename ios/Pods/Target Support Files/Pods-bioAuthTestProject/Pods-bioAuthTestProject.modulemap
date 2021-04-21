@@ -1,0 +1,6 @@
+module Pods_bioAuthTestProject {
+  umbrella header "Pods-bioAuthTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
